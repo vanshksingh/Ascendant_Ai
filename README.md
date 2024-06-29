@@ -332,6 +332,7 @@ This README document outlines the capabilities, challenges, and future enhanceme
 
 **Author:**  
 Vansh Kumar Singh
+Pranshu Gautam
 
 **Acknowledgement:**  
 All libraries and referenced code belong to their respective original owners and are used in the spirit of open source.
