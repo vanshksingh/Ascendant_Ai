@@ -57,7 +57,7 @@ import glob
 # Define the file path for saving chat history
 CHAT_HISTORY_FILE = "chat_history.json"
 
-api_key= "AIzaSyAIsE4C0ZjwCuO0A6S7IEjszpY9MBjAgWE"
+api_key= "add_api_key"
 directory = '/Users/vanshkumarsingh/Desktop/BEEHIVE/pythonProject/generated-pictures'
 
 def ping_google_dns():
