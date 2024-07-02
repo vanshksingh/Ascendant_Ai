@@ -26,26 +26,12 @@ To utilize Streamlit for creating interactive data applications, follow these st
    pip install streamlit
    ```
 
-2. **Create Your Application**: Write your application code in `main.py` using Streamlit's Python API. Here’s a simple example:
-
-   ```python
-   # main.py
-   import streamlit as st
-
-   def main():
-       st.title('My Streamlit App')
-       st.write('Hello, Streamlit!')
-
-   if __name__ == '__main__':
-       main()
-   ```
-
-3. **Run Your Application**: Open a terminal or command prompt, navigate to the directory containing `main.py`, and run Streamlit:
+2. **Run Your Application**: Open a terminal or command prompt, navigate to the directory containing `main.py`, and run Streamlit:
    ```
    streamlit run main.py
    ```
 
-4. **View Your Application**: Streamlit will launch a local web server and open your default web browser to display your application. You can interact with the app and see changes in real-time as you modify the code in `main.py`.
+3. **View Your Application**: Streamlit will launch a local web server and open your default web browser to display your application. You can interact with the app and see changes in real-time as you modify the code in `main.py`.
 
 Streamlit simplifies the process of building and deploying interactive data applications, making it easy to share insights and prototypes with others in the data science community.
 
