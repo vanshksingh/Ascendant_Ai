@@ -3,6 +3,13 @@
 
 ## Ascendant AI Capabilities
 
+
+
+https://github.com/vanshksingh/Ascendant_Ai/assets/114809624/7b9ef25c-aa73-4cf2-9813-2ee830fb99ae
+
+<img width="1072" alt="344474597-6ef785a1-fdde-484f-8c2e-79268d961a36" src="https://github.com/vanshksingh/Ascendant_Ai/assets/114809624/29602457-a0c1-4f7b-aa4f-5b64ebd916ac">
+
+
 Ascendant AI is a cutting-edge model designed to perform a wide range of tasks:
 
 - **Calculations**: Handle complex addition, multiplication, and other mathematical operations.
