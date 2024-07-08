@@ -197,7 +197,7 @@ These models leverage advanced transformers for robust performance, making them 
 
 ## Addressing Challenges in Model Development
 
-### Persistent Chat Issue
+## Persistent Chat Issue
 
 **Problem**: Persistent chat history was not possible due to synchronous working of Streamlit.
 
